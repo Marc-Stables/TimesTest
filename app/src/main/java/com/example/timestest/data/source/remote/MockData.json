@@ -1,0 +1,1219 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/68383d92-dc08-553c-8839-3b0dcc024cec",
+      "url": "https://www.nytimes.com/2021/03/13/nyregion/cornell-fraternities-hazing-death-antonio-tsialas.html",
+      "id": 100000007492495,
+      "asset_id": 100000007492495,
+      "source": "New York Times",
+      "published_date": "2021-03-13",
+      "updated": "2021-03-15 13:22:00",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Deaths (Fatalities);Fraternities and Sororities;Hazing;Colleges and Universities;Tsialas, Antonio (2001-19);Cornell University;Phi Kappa Psi;Ithaca (NY)",
+      "column": null,
+      "byline": "By Nicholas Bogel-Burroughs",
+      "type": "Article",
+      "title": "A Drunken Hazing, a Fatal Fall and a Cornell Fraternity’s Silence",
+      "abstract": "Antonio Tsialas was thriving in his first year at college. Then he was found dead in a gorge, and the fraternity that recruited him closed ranks. What happened is still a mystery.",
+      "des_facet": [
+        "Deaths (Fatalities)",
+        "Fraternities and Sororities",
+        "Hazing",
+        "Colleges and Universities"
+      ],
+      "org_facet": [
+        "Cornell University",
+        "Phi Kappa Psi"
+      ],
+      "per_facet": [
+        "Tsialas, Antonio (2001-19)"
+      ],
+      "geo_facet": [
+        "Ithaca (NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Saul Martinez for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/11/nyregion/00cornell1/00cornell1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/11/nyregion/00cornell1/00cornell1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/11/nyregion/00cornell1/00cornell1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3cc7291c-1c83-5950-8439-325975bdba51",
+      "url": "https://www.nytimes.com/2021/03/11/opinion/biden-covid-relief-bill.html",
+      "id": 100000007649025,
+      "asset_id": 100000007649025,
+      "source": "New York Times",
+      "published_date": "2021-03-11",
+      "updated": "2021-03-12 00:39:43",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "American Rescue Plan (2021);Coronavirus (2019-nCoV);United States Economy;Income Inequality;Biden, Joseph R Jr;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "Joe Biden Is a Transformational President",
+      "abstract": "We’re seeing a policy realignment without a partisan realignment.",
+      "des_facet": [
+        "American Rescue Plan (2021)",
+        "Coronavirus (2019-nCoV)",
+        "United States Economy",
+        "Income Inequality"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jabin Botsford/The Washington Post, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/opinion/11brooks-lead/11brooks-lead-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/opinion/11brooks-lead/11brooks-lead-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/opinion/11brooks-lead/11brooks-lead-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/41b4b7de-1eb7-597e-a484-91c676569849",
+      "url": "https://www.nytimes.com/2021/03/13/style/happiness-course.html",
+      "id": 100000007569807,
+      "asset_id": 100000007569807,
+      "source": "New York Times",
+      "published_date": "2021-03-13",
+      "updated": "2021-03-14 12:16:46",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Happiness;Sleep;Colleges and Universities;Psychology and Psychologists;your-feed-selfcare;Santos, Laurie R (1975- );Yale University",
+      "column": null,
+      "byline": "By Molly Oswaks",
+      "type": "Article",
+      "title": "Over 3 Million People Took This Course on Happiness. Here’s What Some Learned.",
+      "abstract": "It may seem simple, but it bears repeating: sleep, gratitude and helping other people.",
+      "des_facet": [
+        "Happiness",
+        "Sleep",
+        "Colleges and Universities",
+        "Psychology and Psychologists",
+        "your-feed-selfcare"
+      ],
+      "org_facet": [
+        "Yale University"
+      ],
+      "per_facet": [
+        "Santos, Laurie R (1975- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrea Chronopoulos",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/14/fashion/14YALEHAPPINESS/00YALEHAPPINESS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/14/fashion/14YALEHAPPINESS/00YALEHAPPINESS-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/14/fashion/14YALEHAPPINESS/00YALEHAPPINESS-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b7190f59-4be8-5400-9924-65b3d572d14a",
+      "url": "https://www.nytimes.com/2021/03/09/health/covid-vaccine-leftover-doses-dr-b.html",
+      "id": 100000007643150,
+      "asset_id": 100000007643150,
+      "source": "New York Times",
+      "published_date": "2021-03-09",
+      "updated": "2021-03-12 08:55:31",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Computers and the Internet;Content Type: Service;Drugstores;your-feed-healthcare;Massoumi, Cyrus;Dr B PBC",
+      "column": null,
+      "byline": "By Katie Thomas",
+      "type": "Article",
+      "title": "Hunting for a Leftover Vaccine? This Site Will Match You With a Clinic.",
+      "abstract": "More than half a million people have signed up for Dr. B, a service that promises to match them with clinics struggling to equitably dole out extra doses before they expire.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Computers and the Internet",
+        "Content Type: Service",
+        "Drugstores",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Dr B PBC"
+      ],
+      "per_facet": [
+        "Massoumi, Cyrus"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Allison Ingram, a pharmacist, administered the Moderna Covid vaccine to Thomas Black at Cornerstone Pharmacy - Rodney Parham in Little Rock, Ark., on Monday.",
+          "copyright": "Rory Doyle for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/09/science/09VIRUS-DRB1/09VIRUS-DRB1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/09/science/09VIRUS-DRB1/09VIRUS-DRB1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/09/science/09VIRUS-DRB1/09VIRUS-DRB1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b107177f-8c37-542b-a99d-d493d2d4e634",
+      "url": "https://www.nytimes.com/2021/03/11/us/coronavirus-seattle-success.html",
+      "id": 100000007644094,
+      "asset_id": 100000007644094,
+      "source": "New York Times",
+      "published_date": "2021-03-11",
+      "updated": "2021-03-17 19:30:28",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Coronavirus Reopenings;Economic Conditions and Trends;Deaths (Fatalities);Quarantines;Shutdowns (Institutional);Seattle (Wash);King County (Wash);Washington (State)",
+      "column": null,
+      "byline": "By Mike Baker",
+      "type": "Article",
+      "title": "Seattle’s Virus Success Shows What Could Have Been",
+      "abstract": "The Seattle area once had more coronavirus deaths than anywhere else in the United States. A year later, the region’s deaths per capita are lower than any other large metropolitan area.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Coronavirus Reopenings",
+        "Economic Conditions and Trends",
+        "Deaths (Fatalities)",
+        "Quarantines",
+        "Shutdowns (Institutional)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Seattle (Wash)",
+        "King County (Wash)",
+        "Washington (State)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One year after the pandemic became official, Seattle’s success illustrates the value of unified and timely strategies for fighting the coronavirus.",
+          "copyright": "Ruth Fremson/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/us/11virus-seattle/11virus-seattle-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/us/11virus-seattle/11virus-seattle-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/us/11virus-seattle/11virus-seattle-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/926dfe95-bdec-55c5-9310-5cc963c77947",
+      "url": "https://www.nytimes.com/2021/03/11/us/drone-bowling-alley.html",
+      "id": 100000007648276,
+      "asset_id": 100000007648276,
+      "source": "New York Times",
+      "published_date": "2021-03-11",
+      "updated": "2021-03-17 19:31:52",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Drones (Pilotless Planes);Video Recordings, Downloads and Streaming;Bowling;Movies;Quarantine (Life and Culture);Coronavirus (2019-nCoV);Bryant Lake Bowl & Theater (Minneapolis, Minn);Minneapolis (Minn)",
+      "column": null,
+      "byline": "By Mike Ives",
+      "type": "Article",
+      "title": "A Drone Went Bowling. Hollywood Noticed.",
+      "abstract": "A drone video shot in a Minneapolis bowling alley was hailed as an instant classic. One Hollywood veteran said it “adds to the language and vocabulary of cinema.”",
+      "des_facet": [
+        "Drones (Pilotless Planes)",
+        "Video Recordings, Downloads and Streaming",
+        "Bowling",
+        "Movies",
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Bryant Lake Bowl & Theater (Minneapolis, Minn)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Minneapolis (Minn)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ffc03215-e00b-5e8b-ba25-a2ab006a91c5",
+      "url": "https://www.nytimes.com/2021/03/14/climate/outer-banks-tax-climate-change.html",
+      "id": 100000007642695,
+      "asset_id": 100000007642695,
+      "source": "New York Times",
+      "published_date": "2021-03-14",
+      "updated": "2021-03-15 12:09:14",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Global Warming;Coastal Areas;Oceans and Seas;Coast Erosion;Property Taxes;Roads and Traffic;Real Estate and Housing (Residential);North Carolina;Outer Banks (NC);Avon (NC)",
+      "column": null,
+      "byline": "By Christopher Flavelle and Erin Schaff",
+      "type": "Article",
+      "title": "Tiny Town, Big Decision: What Are We Willing to Pay to Fight the Rising Sea?",
+      "abstract": "On the Outer Banks, homeowners in Avon are confronting a tax increase of almost 50 percent to protect their homes, the only road into town, and perhaps the community’s very existence.",
+      "des_facet": [
+        "Global Warming",
+        "Coastal Areas",
+        "Oceans and Seas",
+        "Coast Erosion",
+        "Property Taxes",
+        "Roads and Traffic",
+        "Real Estate and Housing (Residential)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "North Carolina",
+        "Outer Banks (NC)",
+        "Avon (NC)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9d21f97f-c44a-5e2c-9107-1e2cdf4b3cdb",
+      "url": "https://www.nytimes.com/2021/03/11/arts/design/nft-auction-christies-beeple.html",
+      "id": 100000007646323,
+      "asset_id": 100000007646323,
+      "source": "New York Times",
+      "published_date": "2021-03-11",
+      "updated": "2021-03-16 12:01:42",
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "nytdsection": "arts",
+      "adx_keywords": "Nonfungible Tokens (NFTs);Art;Auctions;Computers and the Internet;Virtual Currency;Collectors and Collections;Winkelmann, Mike (Beeple);Christie's",
+      "column": null,
+      "byline": "By Scott Reyburn",
+      "type": "Article",
+      "title": "JPG File Sells for $69 Million, as ‘NFT Mania’ Gathers Pace",
+      "abstract": "“Everydays — The First 5000 Days,” by the artist known as Beeple, set a record for a digital artwork in a sale at Christie’s.",
+      "des_facet": [
+        "Nonfungible Tokens (NFTs)",
+        "Art",
+        "Auctions",
+        "Computers and the Internet",
+        "Virtual Currency",
+        "Collectors and Collections"
+      ],
+      "org_facet": [
+        "Christie's"
+      ],
+      "per_facet": [
+        "Winkelmann, Mike (Beeple)"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;Everydays &mdash; The First 5000 Days&rdquo; is a collage of all the images that the artist known as Beeple has been posting online each day since 2007.",
+          "copyright": "via Christie's",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/12/arts/11nft-auction1/11nft-auction1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/12/arts/11nft-auction1/11nft-auction1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/12/arts/11nft-auction1/11nft-auction1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d7c0e386-157e-5b9f-8e93-b875919fc13c",
+      "url": "https://www.nytimes.com/2021/03/11/opinion/coronavirus-leave-new-york.html",
+      "id": 100000007634144,
+      "asset_id": 100000007634144,
+      "source": "New York Times",
+      "published_date": "2021-03-11",
+      "updated": "2021-03-15 10:08:38",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Quarantines;New York City",
+      "column": null,
+      "byline": "By Luke Winkie",
+      "type": "Article",
+      "title": "They Escaped New York During the Pandemic. Make Them Pay.",
+      "abstract": "Mayor de Blasio, here’s what to do with all the people returning to the city from log cabins and beach houses.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Quarantines"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photograph by Elinor Carucci/Edwynn Houk Gallery; Art by Mario Hugo",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/opinion/11covid-winkie-promo/11covid-winkie-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/opinion/11covid-winkie-promo/11covid-winkie-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/opinion/11covid-winkie-promo/11covid-winkie-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a4b7c5ac-84db-53b2-ac6c-5fbbb5b3c957",
+      "url": "https://www.nytimes.com/2021/03/15/well/mind/grief-pandemic-losses.html",
+      "id": 100000007636867,
+      "asset_id": 100000007636867,
+      "source": "New York Times",
+      "published_date": "2021-03-15",
+      "updated": "2021-03-17 09:48:09",
+      "section": "Well",
+      "subsection": "Mind",
+      "nytdsection": "well",
+      "adx_keywords": "Grief (Emotion);Coronavirus (2019-nCoV);Shutdowns (Institutional);Dating and Relationships;Content Type: Service;Parker-Pope, Tara",
+      "column": null,
+      "byline": "By Tara Parker-Pope",
+      "type": "Article",
+      "title": "It’s OK to Grieve for the Small Losses of a Lost Year",
+      "abstract": "There is a name for grief that isn’t routinely acknowledged: disenfranchised grief. ",
+      "des_facet": [
+        "Grief (Emotion)",
+        "Coronavirus (2019-nCoV)",
+        "Shutdowns (Institutional)",
+        "Dating and Relationships",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Parker-Pope, Tara"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/15/well/00well-small-losses-promo/00well-small-losses-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/15/well/00well-small-losses-promo/00well-small-losses-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/15/well/00well-small-losses-promo/00well-small-losses-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3da65acd-f363-5325-8383-4077f6043666",
+      "url": "https://www.nytimes.com/2021/03/10/books/harlan-coben-win.html",
+      "id": 100000007630021,
+      "asset_id": 100000007630021,
+      "source": "New York Times",
+      "published_date": "2021-03-10",
+      "updated": "2021-03-12 01:15:08",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "Writing and Writers;Books and Literature;Content Type: Personal Profile;Television;Web-Original Programming;Coben, Harlan;Netflix Inc;Ridgewood (NJ)",
+      "column": null,
+      "byline": "By Elizabeth A. Harris",
+      "type": "Article",
+      "title": "Harlan Coben, Suburban Dad With 75 Million Books in Print",
+      "abstract": "With a 33rd novel on the way and deals with Netflix, Amazon and Apple, the prolific author writes in Ubers, at Stop & Shop and just about anywhere else he can.",
+      "des_facet": [
+        "Writing and Writers",
+        "Books and Literature",
+        "Content Type: Personal Profile",
+        "Television",
+        "Web-Original Programming"
+      ],
+      "org_facet": [
+        "Netflix Inc"
+      ],
+      "per_facet": [
+        "Coben, Harlan"
+      ],
+      "geo_facet": [
+        "Ridgewood (NJ)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Every book I write, I still say, each time, ‘This book sucks, and the one I did before was great. How did I lose it?’ And then five minutes later, I’m like, ‘This book is great!’” Harlan Coben said.",
+          "copyright": "Vincent Tullo for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/10/arts/10HARLANCOBEN-promo/10HARLANCOBEN-promo-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/10/arts/10HARLANCOBEN-promo/10HARLANCOBEN-promo-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/10/arts/10HARLANCOBEN-promo/10HARLANCOBEN-promo-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b6ae0b27-e341-511b-bc8b-1be5017faa35",
+      "url": "https://www.nytimes.com/2021/03/13/business/nursing-homes-ratings-medicare-covid.html",
+      "id": 100000007590308,
+      "asset_id": 100000007590308,
+      "source": "New York Times",
+      "published_date": "2021-03-13",
+      "updated": "2021-03-14 10:09:56",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Nursing Homes;Elder Abuse;Bed Sores;Infections;Hygiene and Cleanliness;Sex Crimes;Accidents and Safety;Drugs (Pharmaceuticals);Medicare;Workplace Hazards and Violations;Coronavirus (2019-nCoV);Disease Rates;Centers for Medicare and Medicaid Services;Brookdale Senior Living Inc;Clove Lakes Health Care and Rehabilitation Center (Staten Island, NY);Manor Care Incorporated;Life Care Centers of America;Health and Human Services Department;United States",
+      "column": null,
+      "byline": "By Jessica Silver-Greenberg and Robert Gebeloff",
+      "type": "Article",
+      "title": "Maggots, Rape and Yet Five Stars: How U.S. Ratings of Nursing Homes Mislead the Public",
+      "abstract": "Nursing homes have manipulated the influential star system in ways that have masked deep problems — and left them unprepared for Covid-19.",
+      "des_facet": [
+        "Nursing Homes",
+        "Elder Abuse",
+        "Bed Sores",
+        "Infections",
+        "Hygiene and Cleanliness",
+        "Sex Crimes",
+        "Accidents and Safety",
+        "Drugs (Pharmaceuticals)",
+        "Medicare",
+        "Workplace Hazards and Violations",
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates"
+      ],
+      "org_facet": [
+        "Centers for Medicare and Medicaid Services",
+        "Brookdale Senior Living Inc",
+        "Clove Lakes Health Care and Rehabilitation Center (Staten Island, NY)",
+        "Manor Care Incorporated",
+        "Life Care Centers of America",
+        "Health and Human Services Department"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carrie Johnson was recuperating at Brookdale Richmond Place in Lexington, Ky., after spinal fusion surgery. An untreated infection left her unable to walk or even stand. ",
+          "copyright": "Jessica Ebelhar for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/08/business/00Medicarestars-johnson-02/00Medicarestars-johnson-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/08/business/00Medicarestars-johnson-02/merlin_182830602_0a2611ac-dfa7-491a-a8b1-b9327569100f-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/08/business/00Medicarestars-johnson-02/merlin_182830602_0a2611ac-dfa7-491a-a8b1-b9327569100f-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/18737301-563e-550c-bea8-11ea01bd783c",
+      "url": "https://www.nytimes.com/2021/03/12/business/estate-tax.html",
+      "id": 100000007618626,
+      "asset_id": 100000007618626,
+      "source": "New York Times",
+      "published_date": "2021-03-12",
+      "updated": "2021-03-13 15:05:45",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Wills and Estates;Tax Credits, Deductions and Exemptions;Inheritance and Estate Taxes;Federal Taxes (US);Tax Shelters;Real Estate and Housing (Residential);High Net Worth Individuals;Content Type: Service;Taxation;Personal Finances;Biden, Joseph R Jr",
+      "column": null,
+      "byline": "By Paul Sullivan",
+      "type": "Article",
+      "title": "It May Be Time to Start Worrying About the Estate Tax",
+      "abstract": "Most people have been able to pass on assets like a family home without federal tax, but that could be changing.",
+      "des_facet": [
+        "Wills and Estates",
+        "Tax Credits, Deductions and Exemptions",
+        "Inheritance and Estate Taxes",
+        "Federal Taxes (US)",
+        "Tax Shelters",
+        "Real Estate and Housing (Residential)",
+        "High Net Worth Individuals",
+        "Content Type: Service",
+        "Taxation",
+        "Personal Finances"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Party of One Studio",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/14/business/14Tax-Estate-illo/14Tax-Estate-illo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/14/business/14Tax-Estate-illo/14Tax-Estate-illo-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/14/business/14Tax-Estate-illo/14Tax-Estate-illo-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a0db6869-7220-5454-94b0-a1046a5f33e2",
+      "url": "https://www.nytimes.com/2021/03/08/health/vaccine-side-effects-women-men.html",
+      "id": 100000007632131,
+      "asset_id": 100000007632131,
+      "source": "New York Times",
+      "published_date": "2021-03-08",
+      "updated": "2021-03-10 18:13:24",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Estrogen;Clinical Trials;Women and Girls;Testosterone;Immune System;Hormones;Men and Boys;your-feed-healthcare;your-feed-science",
+      "column": null,
+      "byline": "By Melinda Wenner Moyer",
+      "type": "Article",
+      "title": "Women Report Worse Side Effects After a Covid Vaccine",
+      "abstract": "Men and women tend to respond differently to many kinds of vaccines. That’s probably because of a mix of factors, including hormones, genes and the dosing of the shots.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Estrogen",
+        "Clinical Trials",
+        "Women and Girls",
+        "Testosterone",
+        "Immune System",
+        "Hormones",
+        "Men and Boys",
+        "your-feed-healthcare",
+        "your-feed-science"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "C.D.C. researchers analyzed safety data from 13.7 million Covid-19 vaccinations, finding 79.1 percent of reported side effects came from women, though only 61.2 percent of the vaccines had been administered to women.",
+          "copyright": "Mike Kai Chen for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/08/science/08VIRUS-SEX1/08VIRUS-SEX1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/08/science/08VIRUS-SEX1/08VIRUS-SEX1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/08/science/08VIRUS-SEX1/08VIRUS-SEX1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f95c19b4-55a4-5d05-859d-c93a574069e1",
+      "url": "https://www.nytimes.com/2021/03/09/opinion/meghan-harry-abolish-monarchy.html",
+      "id": 100000007644482,
+      "asset_id": 100000007644482,
+      "source": "New York Times",
+      "published_date": "2021-03-09",
+      "updated": "2021-03-12 12:56:37",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Royal Families;Elizabeth II, Queen of Great Britain;Great Britain",
+      "column": null,
+      "byline": "By Hamilton Nolan",
+      "type": "Article",
+      "title": "Down With the British Monarchy",
+      "abstract": "Any nation that still has a monarchy in 2021 is proving itself to have a mortifying lack of revolutionary gumption.",
+      "des_facet": [
+        "Royal Families"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Elizabeth II, Queen of Great Britain"
+      ],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Britain&rsquo;s Queen Elizabeth in the 2019 Trooping the Colour parade.",
+          "copyright": "Peter Nicholls/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/09/opinion/09Nolan1/09Nolan1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/09/opinion/09Nolan1/09Nolan1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/09/opinion/09Nolan1/09Nolan1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2daf0ec1-40a6-5ba0-8a85-61dc6af0a432",
+      "url": "https://www.nytimes.com/2021/03/10/science/snowflakes-photos-nathan-myhrvold.html",
+      "id": 100000007625945,
+      "asset_id": 100000007625945,
+      "source": "New York Times",
+      "published_date": "2021-03-10",
+      "updated": "2021-03-16 09:07:49",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Snow and Snowstorms;Photography;Microscopes;Cameras;Physics;your-feed-science;Myhrvold, Nathan;Libbrecht, Kenneth G;Komarechka, Don",
+      "column": null,
+      "byline": "By Kenneth Chang",
+      "type": "Article",
+      "title": "Snowflakes as You’ve Never Seen Them Before",
+      "abstract": "Whether made with setups using sapphire and carbon fiber or an old mitten and a standard camera, these photographic approaches allow close-ups of the tiny masterpieces formed when snow falls.",
+      "des_facet": [
+        "Snow and Snowstorms",
+        "Photography",
+        "Microscopes",
+        "Cameras",
+        "Physics",
+        "your-feed-science"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Myhrvold, Nathan",
+        "Libbrecht, Kenneth G",
+        "Komarechka, Don"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Ice Queen,” a snowflake photographed by Dr. Nathan Myhrvold in Yellowknife, Canada, in March 2020.",
+          "copyright": "Nathan Myhrvold/Modernist Cuisine Gallery, LLC",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/27/science/27TB-SNOWFLAKES1/merlin_184247958_20414338-7b44-4983-ad55-16adb291e64c-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/27/science/27TB-SNOWFLAKES1/merlin_184247958_20414338-7b44-4983-ad55-16adb291e64c-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/27/science/27TB-SNOWFLAKES1/merlin_184247958_20414338-7b44-4983-ad55-16adb291e64c-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/86244e01-6bd4-5c14-a56b-d08f87c9019c",
+      "url": "https://www.nytimes.com/2021/03/10/us/beth-moore-southern-baptists.html",
+      "id": 100000007645504,
+      "asset_id": 100000007645504,
+      "source": "New York Times",
+      "published_date": "2021-03-10",
+      "updated": "2021-03-11 19:55:58",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Evangelical Movement;Baptist Churches;Women and Girls;Discrimination;Whites;Christians and Christianity;Content Type: Personal Profile;Moore, Beth (1957- );Trump, Donald J;Southern Baptist Convention",
+      "column": null,
+      "byline": "By Ruth Graham and Elizabeth Dias",
+      "type": "Article",
+      "title": "Beth Moore, a Prominent Evangelical, Splits With Southern Baptists",
+      "abstract": "A teacher on biblical topics, she cited the “staggering” disorientation of seeing denominational leaders support Donald J. Trump, among other issues.",
+      "des_facet": [
+        "Evangelical Movement",
+        "Baptist Churches",
+        "Women and Girls",
+        "Discrimination",
+        "Whites",
+        "Christians and Christianity",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Southern Baptist Convention"
+      ],
+      "per_facet": [
+        "Moore, Beth (1957- )",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beth Moore speaking at a summit on sexual abuse and misconduct at Wheaton College in Wheaton, Ill., in 2018. She has described the election of 2016 as a turning point for her in her decision to leave the Southern Baptist Convention.",
+          "copyright": "Emily McFarlan Miller/Religion News Service",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/us/11moore-baptist-print1/10moore-baptist-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/us/11moore-baptist-print1/11moore-baptist-print1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/us/11moore-baptist-print1/11moore-baptist-print1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d896b33e-27ce-5d6b-9b0e-8c41c801f006",
+      "url": "https://www.nytimes.com/2021/03/13/upshot/economy-optimism-boom.html",
+      "id": 100000007627205,
+      "asset_id": 100000007627205,
+      "source": "New York Times",
+      "published_date": "2021-03-13",
+      "updated": "2021-03-17 11:00:06",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "United States Economy;United States Politics and Government;Labor and Jobs;Recession and Depression;Productivity;Innovation;Coronavirus (2019-nCoV);Economics (Theory and Philosophy);Batteries;International Trade and World Market;American Rescue Plan (2021);Powell, Jerome H;Biden, Joseph R Jr;Federal Reserve System",
+      "column": null,
+      "byline": "By Neil Irwin",
+      "type": "Article",
+      "title": "17 Reasons to Let the Economic Optimism Begin",
+      "abstract": "A reporter who has tracked decades of gloomy trends sees things lining up for roaring growth.",
+      "des_facet": [
+        "United States Economy",
+        "United States Politics and Government",
+        "Labor and Jobs",
+        "Recession and Depression",
+        "Productivity",
+        "Innovation",
+        "Coronavirus (2019-nCoV)",
+        "Economics (Theory and Philosophy)",
+        "Batteries",
+        "International Trade and World Market",
+        "American Rescue Plan (2021)"
+      ],
+      "org_facet": [
+        "Federal Reserve System"
+      ],
+      "per_facet": [
+        "Powell, Jerome H",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jordy van den Nieuwendijk",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/15/upshot/13up-optimism-print/13up-optimism-print-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/15/upshot/13up-optimism-print/13up-optimism-print-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/15/upshot/13up-optimism-print/13up-optimism-print-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/181199a3-a20c-5ebe-915d-7d1c5be7ef01",
+      "url": "https://www.nytimes.com/2021/03/15/us/jesuits-georgetown-reparations-slavery.html",
+      "id": 100000007647215,
+      "asset_id": 100000007647215,
+      "source": "New York Times",
+      "published_date": "2021-03-15",
+      "updated": "2021-03-17 14:42:38",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Slavery (Historical);Black People;Reparations;Colleges and Universities;Priests;American Descendants of Slavery;Georgetown University;Roman Catholic Church;Jesuit Conference of Canada and the United States;United States",
+      "column": null,
+      "byline": "By Rachel L. Swarns",
+      "type": "Article",
+      "title": "Catholic Order Pledges $100 Million to Atone for Slave Labor and Sales",
+      "abstract": "The move by Jesuit priests is the largest such effort by the Roman Catholic Church and comes amid growing calls for reparations across the United States.",
+      "des_facet": [
+        "Slavery (Historical)",
+        "Black People",
+        "Reparations",
+        "Colleges and Universities",
+        "Priests",
+        "American Descendants of Slavery"
+      ],
+      "org_facet": [
+        "Georgetown University",
+        "Roman Catholic Church",
+        "Jesuit Conference of Canada and the United States"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph Stewart, president of the Descendants Truth &amp; Reconciliation Foundation, holding a cross with cotton that he picked as a child in Louisiana, outside St. Bernadette Catholic Church in Port St. Lucie, Fla.",
+          "copyright": "Saul Martinez for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/us/00enslaved-church-promo/00enslaved-church-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/us/00enslaved-church-promo/00enslaved-church-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/11/us/00enslaved-church-promo/00enslaved-church-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e961cf36-42e3-5925-b0d5-733793598278",
+      "url": "https://www.nytimes.com/2021/03/12/dining/passover-seder-recipes.html",
+      "id": 100000007636514,
+      "asset_id": 100000007636514,
+      "source": "New York Times",
+      "published_date": "2021-03-12",
+      "updated": "2021-03-17 01:31:01",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Passover;Cooking and Cookbooks;Matzoh;Fruit;Poultry;Kosher Foods and Products",
+      "column": null,
+      "byline": "By Susan Spungen",
+      "type": "Article",
+      "title": "5 Fresh Seder Dishes You’ll Want to Make All the Time",
+      "abstract": "Scaled for a smaller crowd and easy enough for weeknights, these festive Passover recipes will become part of your regular rotation.",
+      "des_facet": [
+        "Passover",
+        "Cooking and Cookbooks",
+        "Matzoh",
+        "Fruit",
+        "Poultry",
+        "Kosher Foods and Products"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Roasted chicken with apricots and olives.",
+          "copyright": "Johnny Miller for The New York Times. Food Stylist: Susan Spungen.",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/17/dining/12Passover1/merlin_184703202_1ad1022c-c43a-4ff0-98b2-a8958ffd0e55-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/17/dining/12Passover1/merlin_184703202_1ad1022c-c43a-4ff0-98b2-a8958ffd0e55-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/17/dining/12Passover1/merlin_184703202_1ad1022c-c43a-4ff0-98b2-a8958ffd0e55-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

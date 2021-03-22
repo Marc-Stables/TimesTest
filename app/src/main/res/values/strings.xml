@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimesTest</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Hello, %1$s! Welcome to your news feed.</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.timestest.ui.login.LoginFragment"
+        android:label="LoginFragment"
+        tools:layout="@layout/login_frag">
+        <action
+            android:id="@+id/action_loginFragment_to_newsFeedFragment"
+            app:destination="@id/newsFeedFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsFeedFragment"
+        android:name="com.example.timestest.ui.newsfeed.NewsFeedFragment"
+        android:label="News Feed"
+        tools:layout="@layout/newsfeed_frag">
+        <argument
+            android:name="username"
+            app:argType="string" />
+        <argument android:name="password"
+            app:argType="string" />
+    </fragment>
+</navigation>
