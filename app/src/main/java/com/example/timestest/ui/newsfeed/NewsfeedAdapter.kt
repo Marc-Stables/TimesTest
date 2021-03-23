@@ -1,6 +1,7 @@
 package com.example.timestest.ui.newsfeed
 
 import android.view.LayoutInflater
+import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
@@ -8,15 +9,19 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.timestest.data.model.NewsfeedItem
 import com.example.timestest.databinding.NewsfeedItemBinding
 
-class NewsfeedAdapter(private val viewModel: NewsFeedViewModel): ListAdapter<NewsfeedItem, NewsfeedAdapter.ViewHolder>(
-    NewsfeedItemDiffCallback()
-) {
+class NewsfeedAdapter(
+    private val viewModel: NewsFeedViewModel,
+    private val clickListener: OnClickListener
+): ListAdapter<NewsfeedItem, NewsfeedAdapter.ViewHolder>(NewsfeedItemDiffCallback()) {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         return ViewHolder.from(parent)
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val item = getItem(position)
+        holder.itemView.setOnClickListener {
+            clickListener.onClick(item)
+        }
         holder.bind(viewModel, item)
     }
 
@@ -35,6 +40,10 @@ class NewsfeedAdapter(private val viewModel: NewsFeedViewModel): ListAdapter<New
                 return ViewHolder(binding)
             }
         }
+    }
+
+    class OnClickListener(val clickListener: (newsfeedItem: NewsfeedItem) -> Unit) {
+        fun onClick(newsfeedItem: NewsfeedItem) = clickListener(newsfeedItem)
     }
 }
 

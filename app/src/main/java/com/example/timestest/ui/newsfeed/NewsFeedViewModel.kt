@@ -22,19 +22,30 @@ class NewsFeedViewModel @Inject constructor(
     private val _newsfeedItems: LiveData<List<NewsfeedItem>> = repo.observeNewsfeedItems()
     val newsfeedItems = _newsfeedItems
 
+    private val _navigateToSelectedNewsfeedItem = MutableLiveData<NewsfeedItem?>()
+    val navigateToSelectedNewsfeedItem = _navigateToSelectedNewsfeedItem
+
     val username = state.get<String>("username")
 
     init {
         Log.i("NewsfeedViewModel", "NewsfeedViewModel initialised!")
 
         _refreshing.value = true
-        newsfeedRefreshed()
+        refreshNewsfeed()
     }
 
-    fun newsfeedRefreshed() {
+    fun refreshNewsfeed() {
         viewModelScope.launch {
             repo.getNewsfeedItems(true)
             _refreshing.value = false
         }
+    }
+
+    fun displayNewsfeedItemDetail(item: NewsfeedItem) {
+        _navigateToSelectedNewsfeedItem.value = item
+    }
+
+    fun displayNewsfeedItemDetailComplete() {
+        _navigateToSelectedNewsfeedItem.value = null
     }
 }

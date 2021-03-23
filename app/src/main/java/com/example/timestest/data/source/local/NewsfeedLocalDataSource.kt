@@ -22,6 +22,11 @@ class NewsfeedLocalDataSource @Inject constructor(
         return@withContext Result.Success(items)
     }
 
+    override suspend fun getNewsfeedItemFor(id: Long): Result<NewsfeedItem?> = withContext(ioDispatcher) {
+        val item = newsfeedItemDao.getNewsfeedItemFor(id)
+        return@withContext Result.Success(item)
+    }
+
     override suspend fun saveNewsfeedItems(vararg items: NewsfeedItem) {
         newsfeedItemDao.insertNewsfeedItems(*items)
     }

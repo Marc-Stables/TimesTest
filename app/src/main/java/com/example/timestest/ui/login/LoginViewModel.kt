@@ -8,11 +8,11 @@ import androidx.lifecycle.ViewModel
 
 class LoginViewModel: ViewModel() {
     // Two-way bound
-    val username = MutableLiveData<String>()
+    val username = MutableLiveData<String?>()
     val password = MutableLiveData<String>()
 
-    private val _loggedInEvent = MutableLiveData<Pair<String, String>>()
-    val loggedInEvent: LiveData<Pair<String, String>> = _loggedInEvent
+    private val _loggedInEvent = MutableLiveData<Pair<String, String>?>()
+    val loggedInEvent: LiveData<Pair<String, String>?> = _loggedInEvent
 
     init {
         Log.i("LoginViewModel", "LoginViewModel created!")
@@ -26,5 +26,9 @@ class LoginViewModel: ViewModel() {
         Log.i("LoginViewModel", "Performing login with username: ${username.value} and password: ${password.value}")
 
         _loggedInEvent.value = Pair<String, String>(username.value!!, password.value!!)
+    }
+
+    fun loginComplete() {
+        _loggedInEvent.value = null
     }
 }

@@ -38,11 +38,14 @@ class LoginFragment: Fragment() {
 
     private fun setupNavigation() {
         viewModel.loggedInEvent.observe(viewLifecycleOwner, Observer {
-            Log.i("LoginFragment", "Navigating to Feed screen")
+            it?.let {
+                Log.i("LoginFragment", "Navigating to Feed screen")
 
-            val action =
-                LoginFragmentDirections.actionLoginFragmentToNewsFeedFragment(it.first, it.second)
-            findNavController().navigate(action)
+                val action = LoginFragmentDirections.actionLoginFragmentToNewsFeedFragment(it.first, it.second)
+                findNavController().navigate(action)
+
+                viewModel.loginComplete()
+            }
         })
     }
 }

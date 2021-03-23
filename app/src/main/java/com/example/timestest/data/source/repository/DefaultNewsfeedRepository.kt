@@ -31,6 +31,10 @@ class DefaultNewsfeedRepository @Inject constructor(
         return@withContext newsFeedLocalDataSource.getNewsfeedItems()
     }
 
+    override suspend fun getNewsfeedItemFor(id: Long) = withContext(ioDispatcher) {
+        return@withContext newsFeedLocalDataSource.getNewsfeedItemFor(id)
+    }
+
     override suspend fun saveNewsfeedItems(vararg items: NewsfeedItem) = withContext(ioDispatcher) {
         newsFeedLocalDataSource.saveNewsfeedItems(*items)
     }

@@ -24,4 +24,8 @@ class NewsfeedRemoteDataSource @Inject constructor(
             return@withContext Result.Error(e)
         }
     }
+
+    override suspend fun getNewsfeedItemFor(id: Long): Result<NewsfeedItem?> {
+        TODO("Not yet implemented")
+    }
 }

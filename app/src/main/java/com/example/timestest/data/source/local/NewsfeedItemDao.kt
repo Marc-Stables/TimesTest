@@ -15,6 +15,9 @@ interface NewsfeedItemDao {
     @Query("SELECT * FROM NewsfeedItem")
     fun getNewsfeedItems(): List<NewsfeedItem>
 
+    @Query("SELECT * FROM NewsfeedItem WHERE id = :id")
+    suspend fun getNewsfeedItemFor(id: Long): NewsfeedItem?
+
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertNewsfeedItems(vararg items: NewsfeedItem)
 }

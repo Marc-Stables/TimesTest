@@ -1,14 +1,17 @@
 package com.example.timestest.ui.newsfeed
 
 import android.os.Bundle
-import android.util.Log
+import android.text.Layout
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
+import androidx.navigation.fragment.findNavController
+import com.example.timestest.data.model.NewsfeedItem
 import com.example.timestest.databinding.NewsfeedFragBinding
+import com.example.timestest.ui.newsfeeditemdetail.NewsfeedItemDetailFragment
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
@@ -25,10 +28,15 @@ class NewsFeedFragment: Fragment() {
         binding = NewsfeedFragBinding.inflate(inflater, container, false).apply {
             newsFeedViewModel = viewModel
         }
-        binding.lifecycleOwner = this
+        binding.lifecycleOwner = this.viewLifecycleOwner
         binding.swipeRefresh.setOnRefreshListener {
-            viewModel.newsfeedRefreshed()
+            viewModel.refreshNewsfeed()
         }
+        binding.newsFeedViewModel?.navigateToSelectedNewsfeedItem?.observe(viewLifecycleOwner, Observer {
+            it?.let {
+                navigateToNewsfeedItemDetail(it)
+            }
+        })
 
         return binding.root
     }
@@ -42,8 +50,17 @@ class NewsFeedFragment: Fragment() {
     private fun setupListAdapter() {
         val viewModel = binding.newsFeedViewModel
         if (viewModel != null) {
-            listAdapter = NewsfeedAdapter(viewModel)
+            listAdapter = NewsfeedAdapter(viewModel, NewsfeedAdapter.OnClickListener {
+                viewModel.displayNewsfeedItemDetail(it)
+            })
             binding.newsfeedItemsList.adapter = listAdapter
         }
+    }
+
+    private fun navigateToNewsfeedItemDetail(item: NewsfeedItem) {
+        val action = NewsFeedFragmentDirections.actionNewsFeedFragmentToNewsfeedItemDetailFragment(item)
+        findNavController().navigate(action)
+
+        viewModel.displayNewsfeedItemDetailComplete()
     }
 }

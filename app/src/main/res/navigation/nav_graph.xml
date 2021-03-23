@@ -24,5 +24,22 @@
             app:argType="string" />
         <argument android:name="password"
             app:argType="string" />
+        <action
+            android:id="@+id/action_newsFeedFragment_to_newsfeedItemDetailFragment"
+            app:destination="@id/newsfeedItemDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsfeedItemDetailFragment"
+        android:name="com.example.timestest.ui.newsfeeditemdetail.NewsfeedItemDetailFragment"
+        android:label="NewsfeedItemDetailFragment"
+        tools:layout="@layout/newsfeed_item_detail">
+        <argument
+            android:name="newsfeedItem"
+            app:argType="com.example.timestest.data.model.NewsfeedItem" />
+        <action
+            android:id="@+id/action_newsfeedItemDetailFragment_to_loginFragment"
+            app:destination="@id/loginFragment"
+            app:popUpTo="@id/loginFragment"
+            app:popUpToInclusive="true" />
     </fragment>
 </navigation>
