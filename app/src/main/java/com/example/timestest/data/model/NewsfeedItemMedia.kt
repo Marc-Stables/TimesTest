@@ -1,6 +1,5 @@
 package com.example.timestest.data.model
 
-import androidx.room.Embedded
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
 

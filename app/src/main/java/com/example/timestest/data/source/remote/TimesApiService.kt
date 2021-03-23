@@ -1,8 +1,6 @@
 package com.example.timestest.data.source.remote
 
 import com.example.timestest.data.model.TimesServiceResponse
-import com.example.timestest.data.source.local.adapters.NewsfeedItemMediaAdapter
-import com.example.timestest.data.source.local.adapters.NewsfeedItemMediaMetadataAdapter
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
 import retrofit2.Retrofit
@@ -14,7 +12,6 @@ private const val API_KEY = "HjbXhRhgXD6PNtKob8ifGwWZogP04sMa"
 
 private val moshi = Moshi.Builder()
         .add(KotlinJsonAdapterFactory())
-        .add(KotlinJsonAdapterFactory())
         .build()
 
 private val retrofit = Retrofit.Builder()
@@ -23,7 +20,7 @@ private val retrofit = Retrofit.Builder()
         .build()
 
 interface TimesApiService {
-    @GET("mostpopular/v2/viewed/1.json?api-key=${API_KEY}")
+    @GET("mostpopular/v2/viewed/30.json?api-key=${API_KEY}")
     suspend fun getMostPopular(): TimesServiceResponse
 }
 
